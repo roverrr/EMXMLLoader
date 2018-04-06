@@ -1,0 +1,2111 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>
+      Горячие интервью (звук) | Эхо Москвы
+    </title>
+    <link>https://echo.msk.ru/interview/</link>
+    <atom:link
+      href="https://echo.msk.ru/interview/rss-audio.xml %>"
+      rel="self"
+      type="application/rss+xml"
+    />
+    <description>
+      Эхо Москвы: Интервью
+    </description>
+    <image>
+      <title>Горячие интервью (звук) | Эхо Москвы</title>
+      <link>https://echo.msk.ru/interview/</link>
+      <url>https://echo.msk.ru/img/sys/logo_print.gif</url>
+      <width>121</width>
+      <height>80</height>
+    </image>
+    <managingEditor>info@echo.msk.ru (Эхо Москвы)</managingEditor>
+<language>ru-ru</language>
+<copyright></copyright>
+<lastBuildDate>Sat, 03 Mar 2018 14:49:35 +0300</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:owner>
+  <itunes:name>Эхо Москвы</itunes:name>
+  <itunes:email>info@echo.msk.ru</itunes:email>
+  </itunes:owner>
+<ttl>1440</ttl>
+      <item>
+  <title>
+    Русская провокация : Станислав Белковский
+  </title>
+  <link>https://echo.msk.ru/programs/agent_provocateur/2158198-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2403718.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/8025/&quot;&gt;Станислав Белковский&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;
+Так исторически сложилось, что только война позволяет русским проявить свои лучшие человеческие и метафизические качества. Вне войны у нас связаны руки и обрезаны крылья…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-agent_provocateur-1407.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-agent_provocateur-1407.mp3"
+      length="9457853" type="audio/mpeg"/>
+    <itunes:duration>39:24</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 14:07:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Будем наблюдать : Алексей Венедиктов
+  </title>
+  <link>https://echo.msk.ru/programs/observation/2158194-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/680010.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/venediktov/&quot;&gt;Алексей Венедиктов&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/12/&quot;&gt;Сергей Бунтман&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-observation-1307.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-observation-1307.mp3"
+      length="10307559" type="audio/mpeg"/>
+    <itunes:duration>42:56</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 13:07:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Военный совет : Особенности подготовки офицерских кадров для Воздушно-космических сил
+  </title>
+  <link>https://echo.msk.ru/programs/voensovet/2158154-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/813030-echo/&quot;&gt;Владимир Ляпоров&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/543785-echo/&quot;&gt;Алексей Дурново&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-voensovet-1207.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-voensovet-1207.mp3"
+      length="11428296" type="audio/mpeg"/>
+    <itunes:duration>47:37</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 12:07:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Человек из телевизора : Ирина Петровская, Ксения Ларина
+  </title>
+  <link>https://echo.msk.ru/programs/persontv/2158192-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/1362988.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/539/&quot;&gt;Ирина Петровская&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/30/&quot;&gt;Ксения Ларина&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-tv_person-1106.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-tv_person-1106.mp3"
+      length="11515562" type="audio/mpeg"/>
+    <itunes:duration>47:58</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 11:06:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Музейные палаты  : Выставка «100 раритетов российской государственности» в Московском государственном выставочном зале «Новый Манеж»
+  </title>
+  <link>https://echo.msk.ru/programs/museum/2156840-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2823836.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/3576/&quot;&gt;Сергей Мироненко&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/822450-echo/&quot;&gt;Марина Болотина&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/12/&quot;&gt;Сергей Бунтман&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-museum-1005.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-museum-1005.mp3"
+      length="10572222" type="audio/mpeg"/>
+    <itunes:duration>44:03</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 10:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Красная площадь, д. 1 : Столик для рукоделия первой половины 17 века. Часть 2
+  </title>
+  <link>https://echo.msk.ru/programs/redrquare/2158506-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2824712.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/820702-echo/&quot;&gt;Олег Овчаренко&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-redrquare-1005.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-redrquare-1005.mp3"
+      length="1037116" type="audio/mpeg"/>
+    <itunes:duration>04:19</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 10:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Детская площадка с папашей Гульком : Всероссийский детский конкурс чтецов «Живая классика»
+  </title>
+  <link>https://echo.msk.ru/programs/gulko-kid/2155282-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/804688-echo/&quot;&gt;Марина Смирнова&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/822474-echo/&quot;&gt;Евгений Халецкий&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/139/&quot;&gt;Лев Гулько&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-gulko-kid-0835.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-gulko-kid-0835.mp3"
+      length="16383010" type="audio/mpeg"/>
+    <itunes:duration>1:08:15</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 08:35:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Выводы Сергея Цыпляева
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2158440-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2363600.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/814500-echo/&quot;&gt;Сергей Цыпляев&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Для творчества как воздух требуется пространство свободы. Только свободу, как и счастье, у нас каждый понимает по-своему. А по периметру «пространства свободы» многие мечтают установить сторожевые вышки…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-beseda-0727.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-beseda-0727.mp3"
+      length="516960" type="audio/mpeg"/>
+    <itunes:duration>02:09</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 07:27:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Один : Антон Орехъ
+  </title>
+  <link>https://echo.msk.ru/programs/odin/2157510-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-9-picture-000.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13/&quot;&gt;Антон Орехъ&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-03-odin-0008.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-03-odin-0008.mp3"
+      length="38595441" type="audio/mpeg"/>
+    <itunes:duration>2:40:48</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Sat, 03 Mar 2018 00:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Радиодетали : Расстриг в Супханбури или Нэсти Фиш – штамм Уайнстина-Спейси 
+  </title>
+  <link>https://echo.msk.ru/programs/radiodetaly/2158314-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-26-picture-000.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/35/&quot;&gt;Николай Александров&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13/&quot;&gt;Антон Орехъ&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Япона-Мать или Взять за Мадам Си-Жу — Два цзяо за лифт 
+Кумари и Кумар или Ботокс для «шамо» — Бон-боны Рона Крамера…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-radiodetaly-2206.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-radiodetaly-2206.mp3"
+      length="2859976" type="audio/mpeg"/>
+    <itunes:duration>11:54</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 23:50:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Доехали : Боковой ветер
+  </title>
+  <link>https://echo.msk.ru/programs/doehali/2157508-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/786678.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/72/&quot;&gt;Ольга Бычкова&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/8641/&quot;&gt;Михаил Горбачев&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-doehali-2305.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-doehali-2305.mp3"
+      length="9977886" type="audio/mpeg"/>
+    <itunes:duration>41:34</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 23:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Сканер (совместно с агентством «Интерфакс») : Персона недели: Сильвио Берлускони
+Компания недели: Газпром
+  </title>
+  <link>https://echo.msk.ru/programs/skaner/2157378-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-432-picture-1.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/485/&quot;&gt;Алексей Букалов&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/822468-echo/&quot;&gt;Юрий Сидоренко&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/810464-echo/&quot;&gt;Алексей Гривач&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/72/&quot;&gt;Ольга Бычкова&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/9352/&quot;&gt;Владимир Герасимов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-skaner-2205.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-skaner-2205.mp3"
+      length="10524262" type="audio/mpeg"/>
+    <itunes:duration>43:51</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 22:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Суть событий : Сергей Пархоменко
+  </title>
+  <link>https://echo.msk.ru/programs/sut/2157506-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/737220.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/5013/&quot;&gt;Сергей Пархоменко&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/72/&quot;&gt;Ольга Бычкова&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Путин предъявил счет 14-ти независимым государствам, которые окружают сегодня Россию. И заявил о том, что это всё принадлежит России. Это, может быть, главная новость этого послания…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-sut-2106.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-sut-2106.mp3"
+      length="11670926" type="audio/mpeg"/>
+    <itunes:duration>48:37</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 21:06:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    2018 : Николай Петров
+  </title>
+  <link>https://echo.msk.ru/programs/year2018/2156838-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2882544.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/811332-echo/&quot;&gt;Николай Петров&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/832/&quot;&gt;Виталий Дымарский&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/30/&quot;&gt;Ксения Ларина&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-year2018-2005.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-year2018-2005.mp3"
+      length="11391113" type="audio/mpeg"/>
+    <itunes:duration>47:27</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 20:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Ирина Прохорова
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2157504-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2413500.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/4646/&quot;&gt;Ирина Прохорова&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/8104/&quot;&gt;Оксана Пашина&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Мы говорим, что общество у нас ни к чему не готово. Я думаю, оно, может быть, готово значительно больше, чем мы предполагаем…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-osoboe-1907.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-osoboe-1907.mp3"
+      length="8504264" type="audio/mpeg"/>
+    <itunes:duration>35:26</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 19:07:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Реплика Ганапольского : Нудный Янукович
+  </title>
+  <link>https://echo.msk.ru/programs/replika-ganapolskiy/2158144-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/815830.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/320/&quot;&gt;Матвей Ганапольский&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Он был похож на брошенную жену олигарха, которая всё не может забыть яхту мужа, жалуется подругам на «этого негодяя» и требует свою долю имущества…
+&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-replika-ganapolskiy-1815.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-replika-ganapolskiy-1815.mp3"
+      length="715162" type="audio/mpeg"/>
+    <itunes:duration>02:58</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 18:15:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Большое «Эхо» : Ирина Меркулова
+  </title>
+  <link>https://echo.msk.ru/programs/bigecho/2158146-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/823746.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/46/&quot;&gt;Ирина Меркулова&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-bigecho-1800.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-bigecho-1800.mp3"
+      length="10650069" type="audio/mpeg"/>
+    <itunes:duration>44:22</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 18:00:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Николай Сванидзе
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2157502-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2798468.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/171/&quot;&gt;Николай Сванидзе&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/8104/&quot;&gt;Оксана Пашина&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Ради одной предвыборной риторики он бы этого не говорил. Обращение было адресовано западным людям. Вторая часть это не к нашему федеральному собранию. Это к конгрессу США… &lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-osoboe-1706.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-osoboe-1706.mp3"
+      length="8336976" type="audio/mpeg"/>
+    <itunes:duration>34:44</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 17:06:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    На пальцах (совместно с «N+1») : Ирина Воробьева, Андрей Коняев
+  </title>
+  <link>https://echo.msk.ru/programs/napalcah/2157500-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/678065.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13734/&quot;&gt;Ирина Воробьева&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/815384-echo/&quot;&gt;Андрей Коняев&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-napalcah-1605.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-napalcah-1605.mp3"
+      length="10164193" type="audio/mpeg"/>
+    <itunes:duration>42:21</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 16:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Персонально ваш : Сергей Смирнов
+  </title>
+  <link>https://echo.msk.ru/programs/personalnovash/2157498-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/1013124.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/808520-echo/&quot;&gt;Сергей Смирнов&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/27/&quot;&gt;Владимир Варфоломеев&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Я уверен, что главная, ключевая задача, которая видится самому Путину — это возвращение величия страны…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-personalnovash-1505.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-personalnovash-1505.mp3"
+      length="10203076" type="audio/mpeg"/>
+    <itunes:duration>42:30</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 15:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : Новые вооружения, о которых рассказал Путин
+
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2157486-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2721800.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/9/&quot;&gt;Павел Фельгенгауэр&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/27/&quot;&gt;Владимир Варфоломеев&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Американский подход к таким заходам будет такой же, как с Кимом. Америка примет вызов, и разговаривать, конечно, с Россией будут, но ограничения, санкции и противостояние будет только нарастать…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-1435.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-1435.mp3"
+      length="4506071" type="audio/mpeg"/>
+    <itunes:duration>18:46</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 14:35:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : 1. Можно ли отстранять от работы только на основе подозрений в харассменте? 
+2. Сгон на митинги
+
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2157484-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2710716.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/27/&quot;&gt;Владимир Варфоломеев&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-1405.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-1405.mp3"
+      length="8631015" type="audio/mpeg"/>
+    <itunes:duration>35:57</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 14:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Волшебная гора. Кому театральная премия «Прорыв» интересна, кроме деятелей театра? 
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2158036-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/822464-echo/&quot;&gt;Митя Егоров&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/822466-echo/&quot;&gt;Максим Фомин&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/594724-echo/&quot;&gt;Татьяна Троянская&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-beseda-1313.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-beseda-1313.mp3"
+      length="18442995" type="audio/mpeg"/>
+    <itunes:duration>38:36</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 13:13:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Почему Высшая школа экономики хочет отказаться от доцентов без научных публикаций?
+
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2157984-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/820912-echo/&quot;&gt;Сергей Кадочников&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/816150-echo/&quot;&gt;Алексей Горпинченко&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-beseda-1234.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-beseda-1234.mp3"
+      length="5518811" type="audio/mpeg"/>
+    <itunes:duration>11:33</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 12:34:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Книжная кухня. Не отнять
+
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2157970-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/818122-echo/&quot;&gt;Александр Боровский&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/813532-echo/&quot;&gt;Никита Елисеев&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/813530-echo/&quot;&gt;Наталья Дельгядо&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-beseda-1212.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-beseda-1212.mp3"
+      length="4964803" type="audio/mpeg"/>
+    <itunes:duration>10:23</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 12:12:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Особое мнение СПб
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2157952-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2632208.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/818866-echo/&quot;&gt;Александр Сунгуров&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/594724-echo/&quot;&gt;Татьяна Троянская&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-osoboe-1111.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-osoboe-1111.mp3"
+      length="16896931" type="audio/mpeg"/>
+    <itunes:duration>35:21</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 11:11:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : Александр Гольц
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2157880-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2896074.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/3044/&quot;&gt;Александр Гольц&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13734/&quot;&gt;Ирина Воробьева&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13/&quot;&gt;Антон Орехъ&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Блеф, не блеф то, что говорил Путин… Те, кому это адресовано, — а это адресовано отнюдь не слушателям, — те будут исходить из того, что в разной степени готовности, но всё это оружие есть. И будут действовать соответственно…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-morning-0935.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-morning-0935.mp3"
+      length="2977819" type="audio/mpeg"/>
+    <itunes:duration>12:24</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 09:35:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Ну и денек : 2 марта
+  </title>
+  <link>https://echo.msk.ru/programs/deniok/2157852-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2480938.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815732-echo/&quot;&gt;Елена Ханина&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/809048-echo/&quot;&gt;Мария Тарасенкова&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/817142-echo/&quot;&gt;Андрей Ежов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Второго марта в 1831 году автор этих строк — Александр Пушкин обвенчался со своей Мадонной — Натальей Гончаровой… &lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-deniok-0912.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-deniok-0912.mp3"
+      length="1401706" type="audio/mpeg"/>
+    <itunes:duration>05:50</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 09:12:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : Как Путин нас послал. Петербургский разворот 
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2157926-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2891802.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/594724-echo/&quot;&gt;Татьяна Троянская&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/15154/&quot;&gt;Валерий Нечай&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-0808.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-razvorot-0808.mp3"
+      length="22123462" type="audio/mpeg"/>
+    <itunes:duration>46:05</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 08:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Бомбардиры : Ирина Воробьева, Антон Орехъ
+  </title>
+  <link>https://echo.msk.ru/programs/bombard/2157480-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/678065.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13734/&quot;&gt;Ирина Воробьева&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13/&quot;&gt;Антон Орехъ&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-bombard-0805.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-bombard-0805.mp3"
+      length="38842147" type="audio/mpeg"/>
+    <itunes:duration>2:41:50</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 08:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Бабник : Женщины непреклонного возраста
+  </title>
+  <link>https://echo.msk.ru/programs/babnik/2156732-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2854338.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/817020-echo/&quot;&gt;Александр Цыпкин&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/8841/&quot;&gt;Николай Тамразов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-babnik-0205.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-babnik-0205.mp3"
+      length="11941344" type="audio/mpeg"/>
+    <itunes:duration>49:45</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 02:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Один : Дмитрий Быков
+  </title>
+  <link>https://echo.msk.ru/programs/odin/2156730-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-11263-picture-byk.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/13449/&quot;&gt;Дмитрий Быков&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-02-odin-0005.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-02-odin-0005.mp3"
+      length="25805681" type="audio/mpeg"/>
+    <itunes:duration>1:47:31</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Fri, 02 Mar 2018 00:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Курс Потапенко : Электронное слово против печатного
+  </title>
+  <link>https://echo.msk.ru/programs/kurs/2156726-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/807310-echo/&quot;&gt;Сергей Анурьев&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/607086-echo/&quot;&gt;Дмитрий Потапенко&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-kurspotapenko-2305.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-kurspotapenko-2305.mp3"
+      length="11243694" type="audio/mpeg"/>
+    <itunes:duration>46:50</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 23:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Кейс : Ознакомиться с делами: 20 сантиметров; «Макдоналдс» вместо образования; Первый снег
+  </title>
+  <link>https://echo.msk.ru/programs/keys/2156724-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2508552.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/610285-echo/&quot;&gt;Алексей Соломин&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/8924/&quot;&gt;Юрий Кобаладзе&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-keys-2205.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-keys-2205.mp3"
+      length="10367000" type="audio/mpeg"/>
+    <itunes:duration>43:11</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 22:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Дилетанты : Наградные системы разных стран
+  </title>
+  <link>https://echo.msk.ru/programs/Diletanti/2156722-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2396528.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/805672-echo/&quot;&gt;Андрей Хазин&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/832/&quot;&gt;Виталий Дымарский&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-Diletanti-2105.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-Diletanti-2105.mp3"
+      length="11274609" type="audio/mpeg"/>
+    <itunes:duration>46:58</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 21:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Блог-аут : Майкл Наки
+  </title>
+  <link>https://echo.msk.ru/programs/blogout1/2156720-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2747490.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-blogout1-2005.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-blogout1-2005.mp3"
+      length="11060507" type="audio/mpeg"/>
+    <itunes:duration>46:05</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 20:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Владимир Рыжков
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2156718-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/958540.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/22/&quot;&gt;Владимир Рыжков&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/72/&quot;&gt;Ольга Бычкова&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Сейчас весь мир пребывает в шоке, потому что по картинке это похоже на Северную Корею, но учитывая, что Россия – это все-таки не Северная Корея, — это абсолютно шок…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-osoboe-1908.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-osoboe-1908.mp3"
+      length="8651491" type="audio/mpeg"/>
+    <itunes:duration>36:02</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 19:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Реплика Ганапольского : Путин и пиво
+  </title>
+  <link>https://echo.msk.ru/programs/replika-ganapolskiy/2157474-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/815830.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/320/&quot;&gt;Матвей Ганапольский&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Ваньки-встаньки, то есть  присутствующие в зале, начали подпрыгивать в патриотическом угаре, сопровождая прыжки и ужимки восторга долгими продолжительными аплодисментами…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-replika-ganapolskiy-1805.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-replika-ganapolskiy-1805.mp3"
+      length="984835" type="audio/mpeg"/>
+    <itunes:duration>04:06</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 18:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Большое «Эхо» : Александр Плющев
+  </title>
+  <link>https://echo.msk.ru/programs/bigecho/2157516-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/684261.gif&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/52/&quot;&gt;Александр Плющев&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-bigecho-1800.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-bigecho-1800.mp3"
+      length="10591555" type="audio/mpeg"/>
+    <itunes:duration>44:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 18:00:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Максим Шевченко
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2156716-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;www.edinros.ru&quot; title=&quot;www.edinros.ru&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-5480-picture-000.gif&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/7198/&quot;&gt;Максим Шевченко&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/528/&quot;&gt;Ольга Журавлева&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Вопрос не в том, что у нас есть. А у кого «у нас» есть оружие. В чьих интересах оно будет действовать. Нам рассказывает государство устами президента, что их интересы —
+ его, Сечина, Миллера, Дерипаски — это и есть интересы России…  &lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-osoboe-1708.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-osoboe-1708.mp3"
+      length="8546269" type="audio/mpeg"/>
+    <itunes:duration>35:36</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 17:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : 1. Дебаты 
+2. Сгоняют ли вас на выборы?
+
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2156714-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/914706.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/1547/&quot;&gt;Инесса Землер&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/817142-echo/&quot;&gt;Андрей Ежов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-1633.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-1633.mp3"
+      length="4524566" type="audio/mpeg"/>
+    <itunes:duration>18:51</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 16:33:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : Послание Путина – что это было?
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2157406-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/1324274.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/501/&quot;&gt;Андрей Колесников&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/817142-echo/&quot;&gt;Андрей Ежов&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/1547/&quot;&gt;Инесса Землер&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-1620.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-1620.mp3"
+      length="2444174" type="audio/mpeg"/>
+    <itunes:duration>10:11</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 16:20:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : Россия и ЕСПЧ
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2156710-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2250648.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/9485/&quot;&gt;Елена Липцер&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/1547/&quot;&gt;Инесса Землер&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/817142-echo/&quot;&gt;Андрей Ежов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-1605.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-1605.mp3"
+      length="3469741" type="audio/mpeg"/>
+    <itunes:duration>14:27</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 16:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Персонально ваш : Андрей Нечаев
+  </title>
+  <link>https://echo.msk.ru/programs/personalnovash/2156708-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-225-picture.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/266/&quot;&gt;Андрей Нечаев&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/1547/&quot;&gt;Инесса Землер&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/817142-echo/&quot;&gt;Андрей Ежов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Пока у нас будет такое правосудие и такая судебная система, у нас не будет ни экономического роста, ни равных выборов, ни защищенности прав граждан. Мы будем – Зимбабве с ракетами… &lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-personalnovash-1505.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-personalnovash-1505.mp3"
+      length="10394710" type="audio/mpeg"/>
+    <itunes:duration>43:18</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 15:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Гараж : Тест-драйв Mazda RX-8
+  </title>
+  <link>https://echo.msk.ru/programs/garage/2156692-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-1231-picture-Asla.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/1639/&quot;&gt;Сергей Асланян&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-garage-1405.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-garage-1405.mp3"
+      length="8527566" type="audio/mpeg"/>
+    <itunes:duration>35:31</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 14:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Магистрат. Намыв Пригожина — личный остров  повара Путина 
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2157408-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/821150-echo/&quot;&gt;Дарья Рябчук&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/814868-echo/&quot;&gt;Антон Финогенов&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/15033/&quot;&gt;Александр Карпов&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/812890-echo/&quot;&gt;Арсений Веснин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-beseda-1313.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-beseda-1313.mp3"
+      length="17886179" type="audio/mpeg"/>
+    <itunes:duration>37:26</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 13:13:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Овертайм с Геннадием Орловым
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2157304-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2278744.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/813374-echo/&quot;&gt;Геннадий Орлов&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/812890-echo/&quot;&gt;Арсений Веснин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-beseda-1212.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-beseda-1212.mp3"
+      length="9914163" type="audio/mpeg"/>
+    <itunes:duration>20:45</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 12:12:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Особое мнение СПб
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2157278-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/13379/&quot;&gt;Наталья Евдокимова&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/812890-echo/&quot;&gt;Арсений Веснин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-osoboe-1111.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-osoboe-1111.mp3"
+      length="14909283" type="audio/mpeg"/>
+    <itunes:duration>31:12</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 11:11:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : О дебатах
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2157244-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2854416.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/10367/&quot;&gt;Ксения Собчак&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Ходить на дебаты — это как ходить в общественный туалет по нужде: брезгливо, да, неприятно, там вонь. Но если нужда застала тебя, так сказать, в таком месте, приходится идти…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-1035.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-1035.mp3"
+      length="2473760" type="audio/mpeg"/>
+    <itunes:duration>10:18</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 10:35:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : Не пускают к Улюкаеву
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2157220-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/1804366.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/811776-echo/&quot;&gt;Ева Меркачева&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-1020.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-1020.mp3"
+      length="2014319" type="audio/mpeg"/>
+    <itunes:duration>08:23</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 10:20:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : Живой гвоздь
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2155280-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2894430.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/822432-echo/&quot;&gt;ST&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-0935.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-0935.mp3"
+      length="4893326" type="audio/mpeg"/>
+    <itunes:duration>20:23</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 09:35:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : Избиения и преследования политических активистов. Разворот СПб
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2157930-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/822462-echo/&quot;&gt;Динар Идрисов&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/812890-echo/&quot;&gt;Арсений Веснин&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/818454-echo/&quot;&gt;Сергей Кагермазов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-0808.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-0808.mp3"
+      length="23588230" type="audio/mpeg"/>
+    <itunes:duration>49:08</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 08:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : Нино Росебашвили, Майкл Наки
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2156688-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2328432.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-0805.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-razvorot-morning-0805.mp3"
+      length="38855541" type="audio/mpeg"/>
+    <itunes:duration>2:41:53</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 08:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Одна : Ирина Воробьева
+  </title>
+  <link>https://echo.msk.ru/programs/odna/2156020-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/678065.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/13734/&quot;&gt;Ирина Воробьева&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-03-01-odna-0005.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-03-01-odna-0005.mp3"
+      length="38064529" type="audio/mpeg"/>
+    <itunes:duration>2:38:36</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Thu, 01 Mar 2018 00:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    48 минут : Экс-президент ЮАР Джейкоб Зума
+  </title>
+  <link>https://echo.msk.ru/programs/48minut/2154790-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2502592.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/1671/&quot;&gt;Михаил Гусман&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/717722-echo/&quot;&gt;Алексей Нарышкин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;У меня, с точки зрения общения, он оставил самое благоприятное впечатление, он такой был открытый достаточно, разговорчивый. Тем не менее, как выяснилось, суров как коррупционер…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-48minut-2210.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-48minut-2210.mp3"
+      length="10600956" type="audio/mpeg"/>
+    <itunes:duration>44:10</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 22:10:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Невзоровские среды : Александр Невзоров
+  </title>
+  <link>https://echo.msk.ru/programs/nevsredy/2156016-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2771274.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/813104-echo/&quot;&gt;Александр Невзоров&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/528/&quot;&gt;Ольга Журавлева&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/832/&quot;&gt;Виталий Дымарский&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/812890-echo/&quot;&gt;Арсений Веснин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;
+Стоит только Кадырову сказать: «Да будь он, сука, проклят!» — и все эти сталинисты немедленно начинают дребезжать позвоночником и угодливо подхихикивать. И не единого голоса против. Это красиво…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-nevsredy-2105.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-nevsredy-2105.mp3"
+      length="11950342" type="audio/mpeg"/>
+    <itunes:duration>49:47</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 21:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    A-Team : Михаил Хазин
+  </title>
+  <link>https://echo.msk.ru/programs/a_team/2155998-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2830162.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/12844/&quot;&gt;Михаил Хазин&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/717722-echo/&quot;&gt;Алексей Нарышкин&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/543785-echo/&quot;&gt;Алексей Дурново&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/627/&quot;&gt;Алексей Осин&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/701872-echo/&quot;&gt;Алексей Голубев&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Путин не хочет быть президентом, он хочет на пенсию. Он хочет свободы. Соответственно, сложно сказать, кто у него главный враг и где он сидит…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-a_team-2005.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-a_team-2005.mp3"
+      length="11540216" type="audio/mpeg"/>
+    <itunes:duration>48:05</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 20:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Орхан Джемаль
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2155996-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-7796-picture.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/9815/&quot;&gt;Орхан Джемаль&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/717722-echo/&quot;&gt;Алексей Нарышкин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Ковальчук – человек, близкий к спецслужбам, как его описывают. Разумеется, понятно, что прогнила вся система от и до, понятно, что рыльце в пушку у всех снизу доверху…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-osoboe-1908.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-osoboe-1908.mp3"
+      length="8702064" type="audio/mpeg"/>
+    <itunes:duration>36:15</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 19:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Реплика Ганапольского : Любовь из под пинка
+  </title>
+  <link>https://echo.msk.ru/programs/replika-ganapolskiy/2156780-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/815830.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/320/&quot;&gt;Матвей Ганапольский&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;И будет всё та же пирамида вранья — ему всё равно, тем, кто будет в майках тоже всё равно, зрителям телевизора тоже всё равно, всем остальным тоже всё равно…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-replika-ganapolskiy-1808.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-replika-ganapolskiy-1808.mp3"
+      length="751220" type="audio/mpeg"/>
+    <itunes:duration>03:07</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 18:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Большое «Эхо» : Марина Старостина
+  </title>
+  <link>https://echo.msk.ru/programs/bigecho/2156778-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-232-picture.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/273/&quot;&gt;Марина Старостина&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-bigecho-1800.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-bigecho-1800.mp3"
+      length="10565537" type="audio/mpeg"/>
+    <itunes:duration>44:01</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 18:00:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Андрей Мовчан
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2155992-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/1311900.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/811498-echo/&quot;&gt;Андрей Мовчан&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/610285-echo/&quot;&gt;Алексей Соломин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Люди живут в массе своей в страхе, как бы не было хуже. Им привита идея, что что-нибудь поменяем, все разрушится. Опасные правые, опасные левые…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-osoboe-1708.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-osoboe-1708.mp3"
+      length="17340132" type="audio/mpeg"/>
+    <itunes:duration>1:12:14</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 17:08:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Эхономика : Анна Князева
+  </title>
+  <link>https://echo.msk.ru/programs/echonomica/2157228-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/1069250.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/254/&quot;&gt;Анна Князева&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Благодаря соглашению Канала имени Москвы с ООО ЯрПесок 97 в Московском бассейне появится новая инфраструктура для рынка строительных материалов на реке…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-echonomica-1651.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-echonomica-1651.mp3"
+      length="922702" type="audio/mpeg"/>
+    <itunes:duration>03:50</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 16:51:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : 
+
+Настя Рыбка попросила политическое убежище в США
+
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2156712-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2895436.mp3&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/717722-echo/&quot;&gt;Алексей Нарышкин&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/610285-echo/&quot;&gt;Алексей Соломин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-1630.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-1630.mp3"
+      length="5768935" type="audio/mpeg"/>
+    <itunes:duration>24:02</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 16:30:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : Кто такой Андрей Ковальчук?
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2155988-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2895402.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/12705/&quot;&gt;Владимир Жеребенков&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/610285-echo/&quot;&gt;Алексей Соломин&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/717722-echo/&quot;&gt;Алексей Нарышкин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;У нас, в нашем русском следствии сначала человека закрывают, а потом называют доказывать его вину, а не виновность…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-1605.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-1605.mp3"
+      length="5671132" type="audio/mpeg"/>
+    <itunes:duration>23:37</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 16:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Персонально ваш : Виктор Ерофеев
+  </title>
+  <link>https://echo.msk.ru/programs/personalnovash/2155986-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-1728-picture-erofeev.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/2283/&quot;&gt;Виктор Ерофеев&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/610285-echo/&quot;&gt;Алексей Соломин&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/717722-echo/&quot;&gt;Алексей Нарышкин&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;Кокаин и прочие наркотики — это мелочь по сравнению с тем, чем занимались советские дипломаты. Испортить жизнь Западу — это гораздо более серьезные вещи…&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-personalnovash-1505.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-personalnovash-1505.mp3"
+      length="10820296" type="audio/mpeg"/>
+    <itunes:duration>45:05</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 15:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Гараж : Немцев лишили Дизеля
+  </title>
+  <link>https://echo.msk.ru/programs/garage/2155984-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-1231-picture-Asla.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/1639/&quot;&gt;Сергей Асланян&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-garage-1405.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-garage-1405.mp3"
+      length="9286267" type="audio/mpeg"/>
+    <itunes:duration>38:41</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 14:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Деловая среда. Что нужно сделать, чтобы Петербург «поехал»?
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2156746-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2535596.png&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/818054-echo/&quot;&gt;Арсений Афиногенов&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/822444-echo/&quot;&gt;Рубен Тертерян&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/822446-echo/&quot;&gt;Даниил Субботин&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/808384-echo/&quot;&gt;Дмитрий Гаврилов&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/817308-echo/&quot;&gt;Дмитрий Грозный&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-beseda-1313.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-beseda-1313.mp3"
+      length="17554003" type="audio/mpeg"/>
+    <itunes:duration>36:44</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 13:13:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Вспоминая будущее:  Год 1918 – начало Гражданской войны (Бронепоезд Троцкого)
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2156734-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2896100.png&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/821752-echo/&quot;&gt;Александр Резник&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/4790/&quot;&gt;Лев Гольдштейн&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-beseda-1212.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-beseda-1212.mp3"
+      length="4766371" type="audio/mpeg"/>
+    <itunes:duration>09:58</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 12:12:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Особое мнение : Особое Мнение СПб
+  </title>
+  <link>https://echo.msk.ru/programs/personalno/2156728-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/815248-echo/&quot;&gt;Иван Павлов&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/808384-echo/&quot;&gt;Дмитрий Гаврилов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-osoboe-1111.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-osoboe-1111.mp3"
+      length="17138627" type="audio/mpeg"/>
+    <itunes:duration>35:52</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 11:11:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : Зачем нужны тайники?
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2155976-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-1929-thumb-0.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/2525/&quot;&gt;Борис Котович&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/139/&quot;&gt;Лев Гулько&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-beseda-1105.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-beseda-1105.mp3"
+      length="5574580" type="audio/mpeg"/>
+    <itunes:duration>23:13</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 11:05:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : Владимир Жириновский
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2156556-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/770044.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/66/&quot;&gt;Владимир Жириновский&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-morning-1040.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-morning-1040.mp3"
+      length="384278" type="audio/mpeg"/>
+    <itunes:duration>01:36</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 10:40:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Зверсовет : Яна Розова
+  </title>
+  <link>https://echo.msk.ru/programs/animal/2156614-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;43&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/att/avatar_s/element-9229-picture-rozova.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/11331/&quot;&gt;Яна Розова&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-animal-1017.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-animal-1017.mp3"
+      length="736207" type="audio/mpeg"/>
+    <itunes:duration>03:04</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 10:17:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : Алена Попова
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2156530-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/661775-echo/&quot;&gt;Алена Попова&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-morning-1015.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-morning-1015.mp3"
+      length="2630286" type="audio/mpeg"/>
+    <itunes:duration>10:57</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 10:15:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Интервью : «Если бы меня избирали президентом, мне было бы наплевать на время дебатов»
+  </title>
+  <link>https://echo.msk.ru/programs/beseda/2156486-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/822440-echo/&quot;&gt;Ника Стрижак&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/821088-echo/&quot;&gt;Ирина Ананина&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/808384-echo/&quot;&gt;Дмитрий Гаврилов&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-beseda-0958.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-beseda-0958.mp3"
+      length="1172226" type="audio/mpeg"/>
+    <itunes:duration>04:53</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 09:58:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : 
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2156482-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/2596488.jpg&quot; /&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/808384-echo/&quot;&gt;Дмитрий Гаврилов&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/821088-echo/&quot;&gt;Ирина Ананина&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-0956.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-0956.mp3"
+      length="10840006" type="audio/mpeg"/>
+    <itunes:duration>45:09</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 09:56:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот : Ярмарки мёда — рассадник мошенничества
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot/2156500-echo/</link>
+  <description>
+    
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/822320-echo/&quot;&gt;Анастасия Миронова&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/808384-echo/&quot;&gt;Дмитрий Гаврилов&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/guests/821088-echo/&quot;&gt;Ирина Ананина&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-0955.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-0955.mp3"
+      length="642310" type="audio/mpeg"/>
+    <itunes:duration>02:40</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 09:55:00 +0300</pubDate>
+</item>
+
+      <item>
+  <title>
+    Разворот (утренний) : Живой Гвоздь
+  </title>
+  <link>https://echo.msk.ru/programs/razvorot-morning/2156116-echo/</link>
+  <description>
+    &lt;img align=&quot;left&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; title=&quot;&quot; src=&quot;https://echo.msk.ru/files/avatar_s/1041634.jpg&quot; /&gt;
+  &lt;p&gt;Гости:
+    
+    &lt;a href=&quot;https://echo.msk.ru/guests/790837-echo/&quot;&gt;Евгений Фельдман&lt;/a&gt;
+  &lt;/p&gt;
+  &lt;p&gt;Ведущие:
+    
+    &lt;a href=&quot;https://echo.msk.ru/contributors/814212-echo/&quot;&gt;Нино Росебашвили&lt;/a&gt;
+    , 
+    &lt;a href=&quot;https://echo.msk.ru/contributors/815860-echo/&quot;&gt;Майкл Наки&lt;/a&gt;
+  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+  </description>
+  <author>info@echo.msk.ru (Эхо Москвы)</author>
+    <guid>http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-morning-0935.mp3</guid>
+    <enclosure url="http://cdn.echo.msk.ru/snd/2018-02-28-razvorot-morning-0935.mp3"
+      length="5006489" type="audio/mpeg"/>
+    <itunes:duration>20:51</itunes:duration>
+    <itunes:explicit>No</itunes:explicit>
+  <pubDate>Wed, 28 Feb 2018 09:35:00 +0300</pubDate>
+</item>
+
+
+  </channel>
+</rss>
